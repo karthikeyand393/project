@@ -1,0 +1,42 @@
+.animee{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+div img{
+    width: 310px;
+    position: relative;
+}
+
+
+button {
+    padding: 0;
+    margin: 0;
+    border: none; 
+    background: none; 
+}
+.guts .dom{
+    position: relative;
+    bottom: 23%;
+    color: azure;
+    margin-left: 5%;
+}
+button:hover{
+    opacity: 90%;
+}
+body{
+    background-color:black;
+}
+
+#getty{
+    color: azure;
+    font-size: 1.5rem;
+    gap: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#getty img{
+    width: 300px;
+}
